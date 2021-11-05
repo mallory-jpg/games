@@ -5,3 +5,4 @@ A repository for my Python games
 Look into the future... if you dare!
 
 ### Scrabble(TM)
+Game of Scrabble
