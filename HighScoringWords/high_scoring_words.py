@@ -1,4 +1,3 @@
-__author__ = 'codesse'
 
 from collections import Counter
 import operator
